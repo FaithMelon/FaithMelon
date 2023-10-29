@@ -1,4 +1,1 @@
-- Hi, I’m Faith!
-- I’m interested in Game Devlopment and Pixel art and sometimes making music!
-- I’m currently learning lua, gms, js, ts
-- If you need to contact me message me on Discord! しんこお#2255
+a
